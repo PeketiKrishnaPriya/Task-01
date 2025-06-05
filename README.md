@@ -3,7 +3,7 @@
 
 *college*: Jntugv college of enginnering
 
-*Name*: Peketi Uma Patna Sri Krishna Priya
+*Name*: Peketi Uma Ratna Sri Krishna Priya
 
 *INTERN ID*: CTO8WT184
 
