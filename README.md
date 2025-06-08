@@ -5,6 +5,8 @@
 
 *Name*: Peketi Uma Ratna Sri Krishna Priya
 
+*COMPANY*: CODTECH IT SOLUTIONS PVT.LTD
+
 *INTERN ID*: CTO8WT184
 
 *DOMAIN*: Java programming
